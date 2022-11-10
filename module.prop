@@ -1,0 +1,6 @@
+id=freeadbd
+name=Force to free your adbd on Android12+
+version=1.0.0
+versionCode=11000
+author=Shulker
+description=为Android12+强制解放adbd
